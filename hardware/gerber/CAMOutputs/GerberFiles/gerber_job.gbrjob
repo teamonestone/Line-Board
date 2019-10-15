@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2019-10-15T16:17:24Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.5.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "line-board"
+        },
+        "Owner": "Jonas Merkle <jonas.merkle@uni-ulm.de>",
+        "Size": {
+            "X": 104.12,
+            "Y": 43.485
+        }
+    }
+}
